@@ -16,4 +16,6 @@ fake_news_algorithm contains the condensed code that can be used for training, t
 
 Training dataset was wholly taken from US news. 
 
+external_test_data and fake_news_test_external is the test of analyzer, transformer, algorithm, pipeline and joblib
+
 Code/algorithm implementation?
