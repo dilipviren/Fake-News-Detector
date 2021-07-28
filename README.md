@@ -15,3 +15,5 @@ Text process contains the function used to break down the raw string into bags o
 fake_news_algorithm contains the condensed code that can be used for training, testing or predictions
 
 Training dataset was wholly taken from US news. Testing on other news datasets soon
+
+Code/algorithm implementation?
