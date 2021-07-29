@@ -16,6 +16,8 @@ fake_news_algorithm contains the condensed code that can be used for training, t
 
 Training dataset was wholly taken from US news. 
 
-external_test_data and fake_news_test_external, test2_saving_model is the test of analyzer, transformer, algorithm, pipeline and joblib
+external_test_data and fake_news_test_external is the test of analyzer, transformer, algorithm, pipeline and joblib
 
-Model is saved as 
+Model is saved as saved_model.sav using pickle in test2_saving_model Can be loaded using :
+loaded_model = pickle.load(open(filename, 'rb'))
+
