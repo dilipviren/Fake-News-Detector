@@ -1,4 +1,4 @@
-# YouAreFakeNews
+# Fake News Detector
 
 NLP algorithm to detect fake news
 
